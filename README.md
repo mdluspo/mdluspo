@@ -23,7 +23,7 @@
 
 ---
 
-## Technologies I Use
+## Tech Stack
 
 ### Frontend
 
